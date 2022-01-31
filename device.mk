@@ -13,7 +13,8 @@ TARGET_BOARD_PLATFORM := sdm660
 
 # QTI Components
 TARGET_COMMON_QTI_COMPONENTS := \
-    bt
+    bt \
+    perf
 
 # Permissions
 PRODUCT_COPY_FILES += \
