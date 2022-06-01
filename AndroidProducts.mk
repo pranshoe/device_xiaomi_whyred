@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/spark_whyred.mk
+    $(LOCAL_DIR)/xdroid_whyred.mk
 
 COMMON_LUNCH_CHOICES := \
-    spark_whyred-user \
-    spark_whyred-userdebug \
-    spark_whyred-eng
+    xdroid_whyred-user \
+    xdroid_whyred-userdebug \
+    xdroid_whyred-eng
