@@ -211,6 +211,14 @@ vendor/lib64/vendor.qti.gnss@2.1.so|a395bb7d4df874c0e0efadf8ef51d3510afedad3
 vendor/lib64/vendor.qti.gnss@3.0-service.so|947bfafbf110d70656f434ab5845b6691b6b61c1
 vendor/lib64/vendor.qti.gnss@3.0.so|ff1733d10abd97fa4381c798ae74b4cc5dac39e8
 
+# GPS Configs - from Stock
+vendor/etc/flp.conf|962298f8e1d28c26313fc27a6c4fc32b92bd1d14
+vendor/etc/gps.conf|0b90953caab8c5d6468b3a395a088df2717aeceb
+vendor/etc/izat.conf|df4dcfb2c814b1d1d1755563310bf3565695c4cf
+vendor/etc/lowi.conf|619d096c1f0712e20bd1f917e390fa2404f24b43
+vendor/etc/sap.conf|8a39981a0fe25b9d44b8d601e2d0f09b2cc141c3
+vendor/etc/xtwifi.conf|ac2189707c0016c31846ccec73e8857d7f566605
+
 # Graphics - from LA.UM.8.2.1.r1-05600-sdm660
 vendor/lib/egl/eglSubDriverAndroid.so|e72aefcf9fa50a01f53558ea7886e2d70b3a57a9
 vendor/lib/egl/libEGL_adreno.so|4ee0c196818b5f460853f0fdea1e7c586b889c88
