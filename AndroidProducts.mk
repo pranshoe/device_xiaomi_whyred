@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/xdroid_whyred.mk
+    $(LOCAL_DIR)/conquer_whyred.mk
 
 COMMON_LUNCH_CHOICES := \
-    xdroid_whyred-user \
-    xdroid_whyred-userdebug \
-    xdroid_whyred-eng
+    conquer_whyred-user \
+    conquer_whyred-userdebug \
+    conquer_whyred-eng
