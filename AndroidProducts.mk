@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/evolution_whyred.mk
+    $(LOCAL_DIR)/aospa_whyred.mk
 
 COMMON_LUNCH_CHOICES := \
-    evolution_whyred-user \
-    evolution_whyred-userdebug \
-    evolution_whyred-eng
+    aospa_whyred-user \
+    aospa_whyred-userdebug \
+    aospa_whyred-eng
